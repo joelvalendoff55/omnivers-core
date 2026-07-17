@@ -6,3 +6,4 @@
 export * from "./featureFlags";
 export * from "./tenantConfig";
 export * from "./identity";
+export * from "./theme";
